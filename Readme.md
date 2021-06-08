@@ -1,3 +1,3 @@
 # Hello
 
-This is first vcs training
+This is first git training
